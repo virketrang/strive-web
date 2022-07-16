@@ -1,0 +1,14 @@
+{
+	"window.zoomLevel": 1,
+	"editor.fontSize": 16,
+	"extensions.disabled": ["esbenp.prettier-vscode"],
+	"prettier.trailingComma": "all",
+	"prettier.tabWidth": 4,
+	"prettier.printWidth": 80,
+	"prettier.singleQuote": true,
+	"prettier.semi": false,
+	"prettier.arrowParens": "avoid",
+	"prettier.enable": false,
+	"prettier.jsxSingleQuote": true,
+	"prettier.useTabs": true
+}
